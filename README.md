@@ -9,9 +9,9 @@ I'm up for collaboration, so if you have an interesting project in mind, feel fr
 
 
 ### What I'm currently working on:
-- [Honey Tree](https://github.com/sahithyandev/honey-tree), which is a CLI tool to create, share & use project boilerplates code without any headaches.
+- [Honey Tree](https://github.com/sahithyandev/honey-tree), A CLI tool that helps to create & use project-boilerplates without any headaches.
   
-If you want to reach me, you can [send me an E-Mail.](mailto:sahithyan2701@gmail.com)    
+If you want to reach me, you can [send me an E-Mail](mailto:sahithyan2701@gmail.com).
 
 ---
 
