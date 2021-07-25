@@ -12,8 +12,7 @@ me = {
       "html",
       "css",
       "javascript",
-      "typescript",
-      "python"
+      "typescript"
     ]
   },
   links: {
