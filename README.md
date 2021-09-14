@@ -1,3 +1,5 @@
+![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=sahithyandev&count_private=true&show_icons=true)
+
 # Hi 👋
 
 ```javascript
