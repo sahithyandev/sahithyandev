@@ -8,4 +8,8 @@ Most of my projects are made with React and TypeScript. Although I love working 
   
 I'm up for collaboration, so if you have an interesting project in mind, feel free to contact me :)  
 
+## Languages I use
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahithyandev)](https://github.com/anuraghazra/github-readme-stats)
+
 [sahithyandev.github.io](https://sahithyandev.github.io) is my newly built website/blog. Take a look and let me know what you think.
