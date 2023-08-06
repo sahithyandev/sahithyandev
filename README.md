@@ -1,15 +1,8 @@
-![GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=sahithyandev&count_private=true&show_icons=true)
-
 # Hi 👋
 
-I am Sahithyan, a 18-year-old web developer from Jaffna, Sri Lanka.
+I am Sahithyan, a 19-year-old web developer from Jaffna, Sri Lanka.
 
 Most of my projects are made with React and TypeScript. Although I love working in a familiar environment, I would love to try out new technologies and want to continue learning and improving my skills.  
   
-I'm up for collaboration, so if you have an interesting project in mind, feel free to contact me :)  
-
-## Languages I use
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sahithyandev)](https://github.com/anuraghazra/github-readme-stats)
-
-[sahithyandev.github.io](https://sahithyandev.github.io) is my newly built website/blog. Take a look and let me know what you think.
+I am working as a Freelancer. If you have an interesting project in mind, feel free to contact me :)  
+You can find my website at [sahithyan.dev](https://sahithyan.dev). Let me know if you have any feedback.
